@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Ambuj Choudha  
 
-<!--
-**Ambuj-Choudha/Ambuj-Choudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Robotic Systems Engineer** specializing in Computer Vision and Machine Learning, passionate about developing solutions for solving real-world problems. With experience spanning research institutions and industry, I focus on employing the novel ideas from latest research for practical applications.
 
-Here are some ideas to get you started:
+Currently looking for full-time roles. I wrote my Master's thesis at [Fraunhofer Institute for Production Technology (IPT)](https://www.ipt.fraunhofer.de/), where I was working on Unsupervised Domain Adaptation for reducing manual annotation effort. So, always interested to talk about that :))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ambuj-choudha/)  
+
+---
+
+## 🚀 Core Skillset  
+
+- **Programming:** Python, C++, MATLAB
+- **Frameworks:** PyTorch, TensorFlow, ROS2
+- **Libraries:** OpenCV, scikit-learn, NumPy, pandas, Matplotlib
+- **Developer Tools:**  Git, Docker, VS Code
+- **MLOps:** MLFlow, AWS Sagemaker
+- **Simulation & 3D Modelling:** VeroSim, FESTO FluidSim, Abaqus, Blender, SolidWorks
+
+---
+
+## 🎓 Education  
+
+**Master of Science in Robotic Systems Engineering**  
+*RWTH Aachen University, Germany*  
+Grade: 2.1/4.0
+
+---
+
+## 📬 Let's Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ambuj-choudha/)  
+- 📧 [Email Me](mailto:ambuj.choudha@rwth-aachen.de)  
+- 📍 Based in Aachen, Germany
+
+---
+
+*Interested in collaborations on Computer Vision, Robotics, or Machine Learning projects? Feel free to reach out!*
