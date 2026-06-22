@@ -1,52 +1,61 @@
-# 👋 Hi, I'm Ambuj Choudha  
+# 👋 Hi, I'm Ambuj Choudha
 
-I am a **Robotic Systems Engineer** specializing in Computer Vision and Machine Learning, passionate about developing solutions for solving real-world problems. With experience spanning research institutions and industry, I focus on employing the novel ideas from latest research for practical applications.
+I build **end-to-end Computer Vision and ML systems**, from model selection and training pipelines through to deployment on CPU and edge hardware. My background spans applied research and hands-on experience with sensors and prototypes across four RWTH institutes, so I can navigate both a paper and a production codebase.
 
-Currently looking for full-time roles. I wrote my Master's thesis at [Fraunhofer Institute for Production Technology (IPT)](https://www.ipt.fraunhofer.de/), where I was working on Unsupervised Domain Adaptation for reducing manual annotation effort. So, always interested to talk about that :))
+**What I bring to a team:**
+- **Turning research viable** : 4× runtime speedup via parallelisation, automated mesh generation pipelines, and a prototype for automating Textile QA coupled with a Neural Network
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ambuj-choudha/)  
+- **Automating annotation & cutting costs** : built SAM-based semi-automated labelling tool and a full UDA pipeline (12 models, 150+ papers reviewed) to reduce manual labelling in deep learning-based defect detection at [Fraunhofer IPT](https://www.ipt.fraunhofer.de/)
 
----
+- **Inference under constraints** : deployed YOLOv10 at 46 FPS on CPU-only hardware via ONNX Runtime, building a zero-copy DeepStream pipeline targeting NVIDIA Jetson
 
-## 🚀 Core Skillset  
+🔗 [LinkedIn](https://www.linkedin.com/in/ambuj-choudha/)
 
-- **Programming:** Python, C++, MATLAB
-- **Frameworks:** PyTorch, TensorFlow, ROS2
-- **Libraries:** OpenCV, scikit-learn, NumPy, pandas, Matplotlib
-- **Developer Tools:**  Git, Docker, VS Code
-- **MLOps:** MLFlow, AWS Sagemaker
-- **Simulation & 3D Modelling:** VeroSim, FESTO FluidSim, Abaqus, Blender, SolidWorks
+## 🎓 Education
 
----
+**Master of Science in Robotic Systems Engineering**
+*RWTH Aachen University, Germany* | Grade: 2.1/4.0 *(German scale : equivalent to Good)*
+
+**Bachelor of Technology in Production Engineering (with Honours)**
+*College of Engineering Pune, India* | GPA: 8.33/10.0
 
 ## 📂 Previous Work
 
-A short deck walking through selected projects across computer vision, robotics, and ML.
+A short deck walks through projects done at various RWTH Institutes while working as a student research assistant (Studentische Hilfskraft).
 
-[![Previous Works — cover slide](assets/previous_works_cover.png)](Previous_works_amb.pdf)
+<table>
+  <tr>
+    <td align="center" valign="middle" width="55%">
+      <a href="Previous_works_amb.pdf">
+        <img src="assets/previous_works_cover.png" alt="Previous Works" width="460">
+      </a>
+      <br>
+      <sub><i>Previous Works (click to open the PDF)</i></sub>
+    </td>
+    <td align="center" valign="middle" width="45%">
+      <img src="assets/Human-in-the-loop.gif" alt="Human-in-the-loop annotation workflow" width="240">
+      <br>
+      <sub><i>Human-in-the-loop annotation workflow</i></sub>
+    </td>
+  </tr>
+</table>
 
-📄 [**Open the full deck (PDF, 21 slides)**](Previous_works_amb.pdf)
+## 🚀 Core Skillset
 
-### Human-in-the-loop annotation workflow
+- **Programming Languages:** Python, C++, C, MATLAB, Julia
+- **ML Frameworks:** PyTorch, TensorFlow, scikit-learn
+- **Libraries:** NumPy, Pandas, OpenCV, Matplotlib
+- **Robotics Middleware & Backend:** ROS2, FastAPI, SQL
+- **MLOps & Deployment:** MLFlow, Docker, ONNX
+- **Version Control & CI/CD:** Git, GitHub Actions
+- **Simulation & 3D Modelling:** VeroSim, Gazebo, Blender, SolidWorks
 
-![Human-in-the-loop annotation workflow](assets/Human-in-the-loop.gif)
+## 📬 Let's Connect
 
----
-
-## 🎓 Education  
-
-**Master of Science in Robotic Systems Engineering**  
-*RWTH Aachen University, Germany*  
-Grade: 2.1/4.0
-
----
-
-## 📬 Let's Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ambuj-choudha/)  
-- 📧 [Email Me](mailto:ambuj.choudha@rwth-aachen.de)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ambuj-choudha/)
+- 📧 Email : ambuj.choudha@rwth-aachen.de
 - 📍 Based in Aachen, Germany
 
----
+Open to full-time roles in Computer Vision, ML, and Robotics Software integration
 
-*Interested in collaborations on Computer Vision, Robotics, or Machine Learning projects? Feel free to reach out!*
+*Interested in collaborations on Computer Vision, Robotics, or ML projects? Feel free to reach out!*
