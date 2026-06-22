@@ -19,6 +19,20 @@ Currently looking for full-time roles. I wrote my Master's thesis at [Fraunhofer
 
 ---
 
+## 📂 Previous Work
+
+A short deck walking through selected projects across computer vision, robotics, and ML.
+
+[![Previous Works — cover slide](assets/previous_works_cover.png)](Previous_works_amb.pdf)
+
+📄 [**Open the full deck (PDF, 21 slides)**](Previous_works_amb.pdf)
+
+### Human-in-the-loop annotation workflow
+
+![Human-in-the-loop annotation workflow](assets/Human-in-the-loop.gif)
+
+---
+
 ## 🎓 Education  
 
 **Master of Science in Robotic Systems Engineering**  
